@@ -1,0 +1,14 @@
+D:\repo\C#\Code_Challenges\MyProfile\bin\Debug\net8.0\MyProfile.exe
+D:\repo\C#\Code_Challenges\MyProfile\bin\Debug\net8.0\MyProfile.deps.json
+D:\repo\C#\Code_Challenges\MyProfile\bin\Debug\net8.0\MyProfile.runtimeconfig.json
+D:\repo\C#\Code_Challenges\MyProfile\bin\Debug\net8.0\MyProfile.dll
+D:\repo\C#\Code_Challenges\MyProfile\bin\Debug\net8.0\MyProfile.pdb
+D:\repo\C#\Code_Challenges\MyProfile\obj\Debug\net8.0\MyProfile.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\C#\Code_Challenges\MyProfile\obj\Debug\net8.0\MyProfile.AssemblyInfoInputs.cache
+D:\repo\C#\Code_Challenges\MyProfile\obj\Debug\net8.0\MyProfile.AssemblyInfo.cs
+D:\repo\C#\Code_Challenges\MyProfile\obj\Debug\net8.0\MyProfile.csproj.CoreCompileInputs.cache
+D:\repo\C#\Code_Challenges\MyProfile\obj\Debug\net8.0\MyProfile.dll
+D:\repo\C#\Code_Challenges\MyProfile\obj\Debug\net8.0\refint\MyProfile.dll
+D:\repo\C#\Code_Challenges\MyProfile\obj\Debug\net8.0\MyProfile.pdb
+D:\repo\C#\Code_Challenges\MyProfile\obj\Debug\net8.0\MyProfile.genruntimeconfig.cache
+D:\repo\C#\Code_Challenges\MyProfile\obj\Debug\net8.0\ref\MyProfile.dll
