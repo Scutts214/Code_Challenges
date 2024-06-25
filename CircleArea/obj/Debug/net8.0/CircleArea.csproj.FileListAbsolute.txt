@@ -1,0 +1,14 @@
+D:\repo\C#\Code_Challenges\CircleArea\bin\Debug\net8.0\CircleArea.exe
+D:\repo\C#\Code_Challenges\CircleArea\bin\Debug\net8.0\CircleArea.deps.json
+D:\repo\C#\Code_Challenges\CircleArea\bin\Debug\net8.0\CircleArea.runtimeconfig.json
+D:\repo\C#\Code_Challenges\CircleArea\bin\Debug\net8.0\CircleArea.dll
+D:\repo\C#\Code_Challenges\CircleArea\bin\Debug\net8.0\CircleArea.pdb
+D:\repo\C#\Code_Challenges\CircleArea\obj\Debug\net8.0\CircleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\C#\Code_Challenges\CircleArea\obj\Debug\net8.0\CircleArea.AssemblyInfoInputs.cache
+D:\repo\C#\Code_Challenges\CircleArea\obj\Debug\net8.0\CircleArea.AssemblyInfo.cs
+D:\repo\C#\Code_Challenges\CircleArea\obj\Debug\net8.0\CircleArea.csproj.CoreCompileInputs.cache
+D:\repo\C#\Code_Challenges\CircleArea\obj\Debug\net8.0\CircleArea.dll
+D:\repo\C#\Code_Challenges\CircleArea\obj\Debug\net8.0\refint\CircleArea.dll
+D:\repo\C#\Code_Challenges\CircleArea\obj\Debug\net8.0\CircleArea.pdb
+D:\repo\C#\Code_Challenges\CircleArea\obj\Debug\net8.0\CircleArea.genruntimeconfig.cache
+D:\repo\C#\Code_Challenges\CircleArea\obj\Debug\net8.0\ref\CircleArea.dll
