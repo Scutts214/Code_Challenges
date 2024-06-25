@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyProfile
-build_property.ProjectDir = D:\repo\C#\Code_Challenges\MyProfile\
+build_property.ProjectDir = d:\repo\C#\Code_Challenges\MyProfile\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
