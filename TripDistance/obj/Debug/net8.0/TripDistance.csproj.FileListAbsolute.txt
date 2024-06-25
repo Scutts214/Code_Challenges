@@ -1,0 +1,15 @@
+D:\repo\C#\Code_Challenges\TripDistance\bin\Debug\net8.0\TripDistance.exe
+D:\repo\C#\Code_Challenges\TripDistance\bin\Debug\net8.0\TripDistance.deps.json
+D:\repo\C#\Code_Challenges\TripDistance\bin\Debug\net8.0\TripDistance.runtimeconfig.json
+D:\repo\C#\Code_Challenges\TripDistance\bin\Debug\net8.0\TripDistance.dll
+D:\repo\C#\Code_Challenges\TripDistance\bin\Debug\net8.0\TripDistance.pdb
+D:\repo\C#\Code_Challenges\TripDistance\obj\Debug\net8.0\TripDistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\C#\Code_Challenges\TripDistance\obj\Debug\net8.0\TripDistance.AssemblyInfoInputs.cache
+D:\repo\C#\Code_Challenges\TripDistance\obj\Debug\net8.0\TripDistance.AssemblyInfo.cs
+D:\repo\C#\Code_Challenges\TripDistance\obj\Debug\net8.0\TripDistance.csproj.CoreCompileInputs.cache
+D:\repo\C#\Code_Challenges\TripDistance\obj\Debug\net8.0\TripDistance.sourcelink.json
+D:\repo\C#\Code_Challenges\TripDistance\obj\Debug\net8.0\TripDistance.dll
+D:\repo\C#\Code_Challenges\TripDistance\obj\Debug\net8.0\refint\TripDistance.dll
+D:\repo\C#\Code_Challenges\TripDistance\obj\Debug\net8.0\TripDistance.pdb
+D:\repo\C#\Code_Challenges\TripDistance\obj\Debug\net8.0\TripDistance.genruntimeconfig.cache
+D:\repo\C#\Code_Challenges\TripDistance\obj\Debug\net8.0\ref\TripDistance.dll
